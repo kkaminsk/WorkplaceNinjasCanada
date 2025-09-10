@@ -1,0 +1,1 @@
+make a powershell script to install winrar using the powershell app deployment toolkit. Create a subfolder in the @AI Examples folder called Claude. Put all powershell files in that folder.

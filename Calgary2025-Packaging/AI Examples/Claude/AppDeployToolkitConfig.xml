@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppDeployToolkit_Config>
+	<Toolkit_Options>
+		<Toolkit_RequiredVersion>3.8.4</Toolkit_RequiredVersion>
+		<Toolkit_TempPath>$envWinDir\Temp\$appDeployToolkitName</Toolkit_TempPath>
+		<Toolkit_RegPath>HKLM:SOFTWARE\PSAppDeployToolkit</Toolkit_RegPath>
+		<Toolkit_LogPath></Toolkit_LogPath>
+		<Toolkit_LogStyle>CMTrace</Toolkit_LogStyle>
+		<Toolkit_LogMaxSize>10MB</Toolkit_LogMaxSize>
+		<Toolkit_LogWriteToHost>$true</Toolkit_LogWriteToHost>
+		<Toolkit_LogDebugMessage>$false</Toolkit_LogDebugMessage>
+		<Toolkit_ExitOnProcessFailure>$true</Toolkit_ExitOnProcessFailure>
+		<Toolkit_CompressLogs>$false</Toolkit_CompressLogs>
+		<Toolkit_LoggingOptions>
+			<Toolkit_LoggingOptions_MutexWaitTime>1000</Toolkit_LoggingOptions_MutexWaitTime>
+		</Toolkit_LoggingOptions>
+	</Toolkit_Options>
+	<MSI_Options>
+		<MSI_LogPath></MSI_LogPath>
+		<MSI_LoggingOptions>/L*v</MSI_LoggingOptions>
+		<MSI_InstallParams>/QB- /QN</MSI_InstallParams>
+		<MSI_SilentParams>/QN</MSI_SilentParams>
+		<MSI_UninstallParams>/QB- /QN</MSI_UninstallParams>
+		<MSI_LoggingPolicy>
+			<MSI_LoggingPolicy_MsiLogging>$true</MSI_LoggingPolicy_MsiLogging>
+			<MSI_LoggingPolicy_MsiLogMaxSize>40MB</MSI_LoggingPolicy_MsiLogMaxSize>
+		</MSI_LoggingPolicy>
+	</MSI_Options>
+	<UI_Options>
+		<ShowBalloonNotifications>$true</ShowBalloonNotifications>
+		<MaxBalloonNotificationHistory>10</MaxBalloonNotificationHistory>
+		<BalloonNotificationMaxTitleLength>63</BalloonNotificationMaxTitleLength>
+		<BalloonNotificationMaxMessageLength>255</BalloonNotificationMaxMessageLength>
+		<InstallationUI_Timeout>7200</InstallationUI_Timeout>
+		<InstallationUI_ExitOnTimeout>$true</InstallationUI_ExitOnTimeout>
+		<InstallationDefer_ExitOnTimeout>$false</InstallationDefer_ExitOnTimeout>
+		<InstallationPrompt_PersistInterval>1</InstallationPrompt_PersistInterval>
+		<InstallationPrompt_DefaultTimeout>7200</InstallationPrompt_DefaultTimeout>
+		<InstallationPrompt_TimeoutAction>Continue</InstallationPrompt_TimeoutAction>
+		<InstallationRestartPrompt_Timeout>7200</InstallationRestartPrompt_Timeout>
+		<InstallationRestartPrompt_TimeoutAction>Restart</InstallationRestartPrompt_TimeoutAction>
+		<InstallationWelcomePrompt_CustomMessage></InstallationWelcomePrompt_CustomMessage>
+		<InstallationWelcomePrompt_PersistInterval>1</InstallationWelcomePrompt_PersistInterval>
+		<InstallationCloseApps_PromptCountdown>60</InstallationCloseApps_PromptCountdown>
+		<InstallationCloseApps_PersistPrompt>$true</InstallationCloseApps_PersistPrompt>
+		<InstallationCloseApps_PromptToSave>$false</InstallationCloseApps_PromptToSave>
+		<InstallationCloseApps_BlockExecution>$false</InstallationCloseApps_BlockExecution>
+		<InstallationCloseApps_AllowDefer>$true</InstallationCloseApps_AllowDefer>
+		<InstallationCloseApps_AllowDeferCloseApps>$true</InstallationCloseApps_AllowDeferCloseApps>
+		<InstallationCloseApps_ContinueButtonText>Continue</InstallationCloseApps_ContinueButtonText>
+		<InstallationCloseApps_ContinueFlashing>$true</InstallationCloseApps_ContinueFlashing>
+		<InstallationCloseApps_RefreshInterval>1</InstallationCloseApps_RefreshInterval>
+		<InstallationCloseApps_DisableCloseAppsCountdown>$false</InstallationCloseApps_DisableCloseAppsCountdown>
+		<InstallationDefer_DefaultCloseAppsCountdown>60</InstallationDefer_DefaultCloseAppsCountdown>
+		<InstallationProgress_DynamicUpdates>$true</InstallationProgress_DynamicUpdates>
+		<ForceCloseAppsCountdown>0</ForceCloseAppsCountdown>
+		<PromptToSave>$false</PromptToSave>
+		<PersistPrompt>$true</PersistPrompt>
+		<NoCountdown>$false</NoCountdown>
+		<SilentPrompt>$false</SilentPrompt>
+	</UI_Options>
+	<Config_File>
+		<Config_File_UISilentSwitch>Silent</Config_File_UISilentSwitch>
+		<Config_File_UILang>EN</Config_File_UILang>
+	</Config_File>
+</AppDeployToolkit_Config>

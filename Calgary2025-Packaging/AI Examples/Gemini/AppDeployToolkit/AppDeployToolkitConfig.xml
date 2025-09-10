@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Toolkit_Configuration>
+  <Toolkit_Options>
+    <add key="InstallationUI_LanguageOverride" value="" />
+    <add key="Enable_Logging" value="True" />
+    <add key="Log_Path" value="C:\Logs" />
+  </Toolkit_Options>
+  <Branding>
+    <add key="CompanyName" value="WorkplaceNinjasCanada" />
+    <add key="Installation_Welcome_Prompt_Title" value="Installation Welcome" />
+    <add key="Installation_Finished_Prompt_Title" value="Installation Finished" />
+    <add key="Uninstallation_Welcome_Prompt_Title" value="Uninstallation Welcome" />
+    <add key="Uninstallation_Finished_Prompt_Title" value="Uninstallation Finished" />
+  </Branding>
+</Toolkit_Configuration>
