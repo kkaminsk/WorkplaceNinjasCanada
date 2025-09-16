@@ -33,6 +33,10 @@ The R-Model
 
   [WorkplaceNinjasCanada/Calgary2025-Packaging/cmtrace at main · kkaminsk/WorkplaceNinjasCanada](https://github.com/kkaminsk/WorkplaceNinjasCanada/tree/main/Calgary2025-Packaging/cmtrace)
 
+* PSADT Coach
+
+  [ChatGPT - PSADT Coach](https://chatgpt.com/g/g-68c9ccf485a481918e76452250bef7ee-psadt-coach)
+
 ## Resources
 
 * Winget Manifests on Github
