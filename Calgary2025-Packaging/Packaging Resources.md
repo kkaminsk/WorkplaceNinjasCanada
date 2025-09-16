@@ -15,14 +15,23 @@ The R-Model
 * Retire  
 * Replace
 
-# EXE Packaging
+# Packaging
 
 ## Tools
 
 * 7Zip
   [https://www.7-zip.org/](https://www.7-zip.org/)
+
 * Silent Switch Finder
   [https://www.appdeploynews.com/adn-silent-switch-finder/](https://www.appdeploynews.com/adn-silent-switch-finder/)
+
+* AppFinder (uninstall switches)
+
+  [kkaminsk/AppFinder](https://github.com/kkaminsk/appfinder)
+
+* CMTrace
+
+  [WorkplaceNinjasCanada/Calgary2025-Packaging/cmtrace at main · kkaminsk/WorkplaceNinjasCanada](https://github.com/kkaminsk/WorkplaceNinjasCanada/tree/main/Calgary2025-Packaging/cmtrace)
 
 ## Resources
 
@@ -41,11 +50,11 @@ The R-Model
 
 ## Tools
 
+* MSIX Packaging Tool
+  [https://apps.microsoft.com/detail/9n5lw3jbcxkf?hl=en-GB\&gl=CA](https://apps.microsoft.com/detail/9n5lw3jbcxkf?hl=en-GB&gl=CA)
 * Microsoft Store
   [https://apps.microsoft.com/](https://apps.microsoft.com/)
 * MSIX PSF Tooling
   [https://www.tmurgent.com/appv/en/resources/tools-downloads/msix-tools/128-msix-tools/557-psftoolingv48](https://www.tmurgent.com/appv/en/resources/tools-downloads/msix-tools/128-msix-tools/557-psftoolingv48)  
 * MSIX PSF Coach  
   [https://chatgpt.com/g/g-68ae58c2df948191b643e3c815e13455-msix-psf-coach](https://chatgpt.com/g/g-68ae58c2df948191b643e3c815e13455-msix-psf-coach)
-* MSIX Packaging Tool
-  [https://apps.microsoft.com/detail/9n5lw3jbcxkf?hl=en-GB\&gl=CA](https://apps.microsoft.com/detail/9n5lw3jbcxkf?hl=en-GB&gl=CA)
