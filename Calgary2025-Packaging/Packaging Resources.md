@@ -17,6 +17,11 @@ The R-Model
 
 # Packaging
 
+## Training
+
+- PowerShell ADT
+  https://academy.viamonstra.com/courses/psadt-v4-essentials/
+
 ## Tools
 
 * 7Zip
@@ -33,8 +38,10 @@ The R-Model
 
   [WorkplaceNinjasCanada/Calgary2025-Packaging/cmtrace at main · kkaminsk/WorkplaceNinjasCanada](https://github.com/kkaminsk/WorkplaceNinjasCanada/tree/main/Calgary2025-Packaging/cmtrace)
 
+* PowerShell App Deployment Toolkit 
+  [PSAppDeployToolkit](https://psappdeploytoolkit.com/)
+  
 * PSADT Coach
-
   [ChatGPT - PSADT Coach](https://chatgpt.com/g/g-68c9ccf485a481918e76452250bef7ee-psadt-coach)
 
 ## Resources
@@ -62,3 +69,4 @@ The R-Model
   [https://www.tmurgent.com/appv/en/resources/tools-downloads/msix-tools/128-msix-tools/557-psftoolingv48](https://www.tmurgent.com/appv/en/resources/tools-downloads/msix-tools/128-msix-tools/557-psftoolingv48)  
 * MSIX PSF Coach  
   [https://chatgpt.com/g/g-68ae58c2df948191b643e3c815e13455-msix-psf-coach](https://chatgpt.com/g/g-68ae58c2df948191b643e3c815e13455-msix-psf-coach)
+
